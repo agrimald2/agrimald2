@@ -64,7 +64,19 @@ escribo_en: https://alonsogrimaldo.com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="git"/>
 </p>
 
-<sub>Más Claude Code · Codex · Cursor · Playwright MCP — mi día a día con agentes.</sub>
+<p>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-1C1917?style=flat-square&logo=anthropic&logoColor=F5F0E8"/>
+  <img src="https://img.shields.io/badge/OpenAI-1C1917?style=flat-square&logo=openai&logoColor=F5F0E8"/>
+  <img src="https://img.shields.io/badge/LangChain-1C7C54?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C7C54?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-9A3412?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude_Code-9A3412?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-1C1917?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-1C1917?style=flat-square&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright_MCP-2D8A3E?style=flat-square&logo=playwright&logoColor=white"/>
+</p>
+
+<sub>Construyo agentes que iteran, prueban y se corrigen solos — ese es mi día a día.</sub>
 
 <br/>
 <br/>
