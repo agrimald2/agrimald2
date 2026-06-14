@@ -73,7 +73,7 @@ escribo_en: https://alonsogrimaldo.com
 
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=agrimald2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=percentile&title_color=9A3412&icon_color=9A3412&text_color=57534E&bg_color=FAF6EF"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=agrimald2&hide_border=true&background=FAF6EF&stroke=E5DDCD&ring=9A3412&fire=9A3412&currStreakLabel=9A3412&sideLabels=57534E&dates=8A8378&currStreakNum=1C1917&sideNums=1C1917"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=agrimald2&hide_border=true&background=FAF6EF&stroke=E5DDCD&ring=9A3412&fire=9A3412&currStreakLabel=9A3412&sideLabels=57534E&dates=8A8378&currStreakNum=1C1917&sideNums=1C1917"/>
 </p>
 
 <p>
