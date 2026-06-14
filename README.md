@@ -26,7 +26,7 @@ escribo_en: https://alonsogrimaldo.com
 
 <br/>
 
-## 🚀 En qué ando
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%239A3412&height=22" height="22" align="center"/> En qué ando
 
 - Construyendo el motor de agentes de **[021](https://from021.io)** — de idea de negocio a specs y prompts ejecutables
 - Dirigiendo y programando software + IA para corporativos en **LaTech**
@@ -34,7 +34,7 @@ escribo_en: https://alonsogrimaldo.com
 
 <br/>
 
-## 🧪 Proyectos
+## <img src="https://api.iconify.design/lucide:flask-conical.svg?color=%239A3412&height=22" height="22" align="center"/> Proyectos
 
 | Proyecto | Qué es |
 |---|---|
@@ -44,7 +44,7 @@ escribo_en: https://alonsogrimaldo.com
 
 <br/>
 
-## 🧰 Stack
+## <img src="https://api.iconify.design/lucide:wrench.svg?color=%239A3412&height=22" height="22" align="center"/> Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript"/>
@@ -81,7 +81,7 @@ escribo_en: https://alonsogrimaldo.com
 <br/>
 <br/>
 
-## 📊 Actividad
+## <img src="https://api.iconify.design/lucide:activity.svg?color=%239A3412&height=22" height="22" align="center"/> Actividad
 
 > 3.000+ contribuciones al año · activo en [from021-io](https://github.com/from021-io) y proyectos de LaTech.
 > El detalle completo —commits, PRs, reviews— está más abajo en mi grafo de contribuciones.
@@ -93,5 +93,13 @@ escribo_en: https://alonsogrimaldo.com
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,100:9A3412&height=120&section=footer&text=Hablemos&fontColor=FAF6EF&fontSize=22&desc=alonsogrimaldo.com&descAlignY=72&descSize=14&descColor=F3EDE2" width="100%"/>
+  <a href="https://alonsogrimaldo.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,100:9A3412&height=120&section=footer&text=Hablemos&fontColor=FAF6EF&fontSize=22&desc=alonsogrimaldo.com&descAlignY=72&descSize=14&descColor=F3EDE2" width="100%"/></a>
+</p>
+
+<p align="center">
+  <a href="https://alonsogrimaldo.com">Sitio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/alonso-grimaldo-3a2917186/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/alonsogrimal2">X</a>
 </p>
