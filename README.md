@@ -16,7 +16,7 @@
 
 ```yaml
 nombre:     Alonso Grimaldo
-rol:        Founding Engineer @ 021
+rol:        Head of AI and Founding Team @ 021
 también:    Founder & CTO @ LaTech · ex-CTO @ VICI (adquirida por Tiendanube)
 origen:     Perú 🇵🇪  →  hace 4 años en Argentina 🇦🇷
 idiomas:    [español, inglés, francés]
